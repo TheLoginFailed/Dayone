@@ -1,0 +1,28 @@
+.header {
+  background-color: #4e4e4e;
+  height: 200px;
+}
+
+.nav {
+  background-color: #00ffff;
+  height: 50px;
+  border: 1px solid black;
+}
+.content {
+  height: 200px;
+  background-color: #ff0000;
+}
+.aside{
+  height: 200px;
+  background-color: #00ff00;
+}
+.promo{
+  height: 100px;
+  background-color: gold;
+  border: 1px solid black;
+  width: 20px
+}
+.footer{
+  height: 50px;
+  background-color: pink;
+}
